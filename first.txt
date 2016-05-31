@@ -5,5 +5,9 @@ local3 - 14:56
 
 server - 15:14
 
+<<<<<<< HEAD
 
 local - 15:30
+=======
+server - 15:29
+>>>>>>> 8c2ccc648cf643d07f69b8dc2ddaacdbcafe20e9
